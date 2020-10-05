@@ -8,7 +8,7 @@
 static char *font = "mononoki Nerd Font:pixelsize=14:antialias=true:autohint=true";
 
 static char *font2[] = {
-    /* "Inconsolata for Powerline:pixelsize=15:antialias=true:autohint=true", */
+    "Siji:pixelsize=12:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
